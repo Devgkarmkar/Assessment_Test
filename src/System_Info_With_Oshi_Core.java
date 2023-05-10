@@ -3,7 +3,7 @@ import oshi.SystemInfo;
 public class System_Info_With_Oshi_Core {
     public static void main(String args[]){
 
-        // At first, we have to we have to add dependency of Oshi-core Library
+        // At first, we have to add dependency of Oshi-core Library
 
         SystemInfo systemInfo = new SystemInfo();
 
